@@ -3,7 +3,7 @@
 This repository hosts the privacy policy for the Sanctuary document photo management app.
 
 ## Privacy Policy
-The complete privacy policy is available at: https://yourusername.github.io/sanctuary-privacy/
+The complete privacy policy is available at: https://github.com/apanainte/data-sanctuary-privacy
 
 ## About Sanctuary
 Sanctuary is a privacy-first document photo management app that stores all data locally on your device.
